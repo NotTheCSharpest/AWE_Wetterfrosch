@@ -1,0 +1,12 @@
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/bin/Debug/netcoreapp3.1/AWE_Wetterfrosch.deps.json
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/bin/Debug/netcoreapp3.1/AWE_Wetterfrosch.runtimeconfig.json
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/bin/Debug/netcoreapp3.1/AWE_Wetterfrosch.runtimeconfig.dev.json
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/bin/Debug/netcoreapp3.1/AWE_Wetterfrosch.dll
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/bin/Debug/netcoreapp3.1/AWE_Wetterfrosch.pdb
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.csprojAssemblyReference.cache
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.AssemblyInfoInputs.cache
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.AssemblyInfo.cs
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.csproj.CoreCompileInputs.cache
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.dll
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.pdb
+/Users/aji/Projects/AWE_Wetterfrosch/AWE_Wetterfrosch/obj/Debug/netcoreapp3.1/AWE_Wetterfrosch.genruntimeconfig.cache
