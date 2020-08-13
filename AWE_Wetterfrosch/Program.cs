@@ -88,7 +88,7 @@ namespace AWE_Wetterfrosch
             Console.WriteLine("Spannweite: {0}", spannweite);
             Console.WriteLine("Abweichung: {0}", abweichung);
             /// - output rangelist
-            Console.WriteLine("Häufigkeiten":);
+            Console.WriteLine("Häufigkeiten:");
             Console.WriteLine();
             foreach (var item in frequency.OrderBy(i => i.Key))
             {
